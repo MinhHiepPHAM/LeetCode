@@ -1,6 +1,6 @@
 # LeetCode
 
-![leetcode][figures/leetcode.png]
+![leetcode](figures/leetcode.png)
 
 All problems are from [LeetCode](https://leetcode.com/problemset/all/) website. Each problem will have two solutions, one in `C++` and another in `python`
 
