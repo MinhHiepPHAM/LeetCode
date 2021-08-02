@@ -1,5 +1,7 @@
 # LeetCode
 
+![leetcode][figures/leetcode.png]
+
 All problems are from [LeetCode](https://leetcode.com/problemset/all/) website. Each problem will have two solutions, one in `C++` and another in `python`
 
 This repository is only for learning and resiving some data structures in `C++` and `Python`
