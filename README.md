@@ -9,4 +9,5 @@ This repository is only for learning and resiving some data structures in `C++` 
 List of problems will be updated below:
 
 1. [Two sum](https://leetcode.com/problems/two-sum/)
-2. [Add two numbers](https://leetcode.com/problems/add-two-numbers/) 
+2. [Add two numbers](https://leetcode.com/problems/add-two-numbers/)
+3. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
