@@ -12,5 +12,5 @@ List of problems will be updated below:
 2. [Add two numbers](https://leetcode.com/problems/add-two-numbers/)
 3. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 4. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-
+5. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
