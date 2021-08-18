@@ -15,10 +15,8 @@ public:
     }
     
     bool isPrex(char c, vector<string> strs, int pos) {
-        for(int i = 0; i < strs.size(); i++) {
-            if(strs[i].size() < pos) 
-                break;
-            if(c != strs[i][pos])
+        for(int i = 1; i < strs.size(); i++) {
+            if(strs[i].size() < pos || c != strs[i][pos])
                 return false;
         }
         return true;
